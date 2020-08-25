@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://sandeshbhatjr.github.io/rangoliblog</id>
+    <id>https://sandeshbhatjr.github.io/rangoli/blog</id>
     <title>The Rangoli framework Blog</title>
     <updated>2020-08-28T06:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://sandeshbhatjr.github.io/rangoliblog"/>
+    <link rel="alternate" href="https://sandeshbhatjr.github.io/rangoli/blog"/>
     <subtitle>The best place to stay up-to-date with the latest The Rangoli framework news and events.</subtitle>
-    <logo>https://sandeshbhatjr.github.io/rangoliimg/favicon.ico</logo>
+    <logo>https://sandeshbhatjr.github.io/rangoli/img/favicon.ico</logo>
     <rights>Copyright © 2020 Your Name or Your Company Name</rights>
     <entry>
         <title type="html"><![CDATA[Roadmap]]></title>
-        <id>https://sandeshbhatjr.github.io/rangoliblog/2020/08/28/blog-post.html</id>
-        <link href="https://sandeshbhatjr.github.io/rangoliblog/2020/08/28/blog-post.html"/>
+        <id>https://sandeshbhatjr.github.io/rangoli/blog/2020/08/28/blog-post.html</id>
+        <link href="https://sandeshbhatjr.github.io/rangoli/blog/2020/08/28/blog-post.html"/>
         <updated>2020-08-28T06:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>Rangoli is a framework meant to assist in getting up and started with optimisation problems from a very high level.</p>
 ]]></summary>
