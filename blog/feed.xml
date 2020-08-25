@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>The Rangoli framework Blog</title>
+        <link>https://sandeshbhatjr.github.io/rangoliblog</link>
+        <description>The best place to stay up-to-date with the latest The Rangoli framework news and events.</description>
+        <lastBuildDate>Fri, 28 Aug 2020 06:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>The Rangoli framework Blog</title>
+            <url>https://sandeshbhatjr.github.io/rangoliimg/favicon.ico</url>
+            <link>https://sandeshbhatjr.github.io/rangoliblog</link>
+        </image>
+        <copyright>Copyright © 2020 Your Name or Your Company Name</copyright>
+        <item>
+            <title><![CDATA[Roadmap]]></title>
+            <link>https://sandeshbhatjr.github.io/rangoliblog/2020/08/28/blog-post.html</link>
+            <guid>https://sandeshbhatjr.github.io/rangoliblog/2020/08/28/blog-post.html</guid>
+            <pubDate>Fri, 28 Aug 2020 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>Rangoli is a framework meant to assist in getting up and started with optimisation problems from a very high level.</p>
+]]></description>
+        </item>
+    </channel>
+</rss>
