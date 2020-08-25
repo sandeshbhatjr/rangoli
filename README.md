@@ -1,2 +1,2 @@
 # rangoli
-Rangoli framework is an optimisation framework
+**Rangoli** is an optimisation framework.
